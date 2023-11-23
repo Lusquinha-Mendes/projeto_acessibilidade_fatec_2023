@@ -1,9 +1,9 @@
 :root {
-    --background-color-light: #fff;
-    --text-color-light: #333;
+    --background-color-light: white;
+    --text-color-light: black;
 
-    --background-color-dark: #222;
-    --text-color-dark: #fff;
+    --background-color-dark: black;
+    --text-color-dark: white;
 }
 
 body {
