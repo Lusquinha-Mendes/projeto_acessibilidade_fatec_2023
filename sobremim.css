@@ -24,9 +24,6 @@ body.dark-mode {
     height: 150px;
     object-fit: cover;
     position: relative;
-    left: 20px;
-    
-    
 }
 
 .retangulo {
@@ -43,7 +40,7 @@ body.dark-mode {
 .anime {
     position: absolute;
     top: 30px;
-    left: 1400px;
+    left: 1090px;
     word-spacing: 80px;
 }
 
@@ -78,8 +75,8 @@ background-color: #555;
 .social
 {
  width: 4%;
- margin-right: 200px;
- margin-left: 80px;
+ margin-left: 15px;
+
 }
 
 .main{
